@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/.vs/ExpressProfiler/v14
+/ExpressProfiler.Ecosystem/obj/Debug
+/ExpressProfiler/bin/Debug
+/ExpressProfiler/obj/Debug
