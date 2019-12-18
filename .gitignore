@@ -7,3 +7,5 @@
 /ExpressProfiler.Ecosystem/obj/Debug
 /ExpressProfiler/bin/Debug
 /ExpressProfiler/obj/Debug
+/ExpressProfiler/bin
+/.vs/ExpressProfiler/v16/Server/sqlite3
